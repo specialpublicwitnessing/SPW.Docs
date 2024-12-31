@@ -10,7 +10,7 @@ This document serves as an entry point to understanding the project and setting 
 
 ## Getting Started
 
-To set up your development environment, follow the [Engineer notebook setup guide](wiki/Engineer-notebook-setup-guide).
+To set up your development environment, follow the [Engineer notebook setup guide](../../wiki/Engineer-notebook-setup-guide).
 
 ---
 
